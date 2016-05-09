@@ -1,9 +1,31 @@
-<!DOCTYPE HTML>
+<?php /* Smarty version Smarty-3.1.6, created on 2016-05-09 08:38:26
+         compiled from "../shop/Admin/View\Goods\update.html" */ ?>
+<?php /*%%SmartyHeaderCode:10419572fdc028e5b84-51686498%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'faa7a2ee8ae2de5d0a0cc87f20b10b642df73e8d' => 
+    array (
+      0 => '../shop/Admin/View\\Goods\\update.html',
+      1 => 1462754298,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '10419572fdc028e5b84-51686498',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.6',
+  'unifunc' => 'content_572fdc02a4166',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_572fdc02a4166')) {function content_572fdc02a4166($_smarty_tpl) {?><!DOCTYPE HTML>
 <html>
     <head>
         <title>修改商品</title>
         <meta http-equiv="content-type" content="text/html;charset=utf-8">
-        <link href="{$smarty.const.ADMIN_CSS_URL}mine.css" type="text/css" rel="stylesheet">
+        <link href="<?php echo @ADMIN_CSS_URL;?>
+mine.css" type="text/css" rel="stylesheet">
     </head>
 
     <body>
@@ -55,7 +77,8 @@
                 </tr>
                 <tr>
                     <td>商品图片</td>
-                    <td><input type="file" name="f_goods_image" value="{$smarty.const.ADMIN_IMG_URL}2013-12-33.jpg" /></td>
+                    <td><input type="file" name="f_goods_image" value="<?php echo @ADMIN_IMG_URL;?>
+2013-12-33.jpg" /></td>
                 </tr>
                 <tr>
                     <td>商品详细描述</td>
@@ -73,4 +96,4 @@
             </form>
         </div>
     </body>
-</html>
+</html><?php }} ?>

@@ -8,12 +8,9 @@ header("charset=utf8");
 		function showlist(){
 			//实例化model
 			$goods = D("Goods");
-			$info = $goods -> select();
-			//show_bug($info);
-			foreach($info as $k => $v){
-				echo $v['goods_name'];
-			}
+			$info = $goods -> select(); //获得数据信息
 			
+			$this -> assign('info',$info);
 			$this -> display();
 			//var_dump(get_defined_constants(true));
 		}

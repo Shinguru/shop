@@ -1,0 +1,1285 @@
+[ 2016-05-09T07:53:35+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ../shop/Runtime/Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php C:\wamp\www\tp3\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+ERR: Syntax Error in template "../shop/Home/View\Index\index.html"  on line 405 ".boxCenterList form{display:inline;}"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-05-09T07:57:22+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ../shop/Runtime/Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php C:\wamp\www\tp3\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(../shop/Runtime/Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php): No such file or directory C:\wamp\www\tp3\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.604034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.605034s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-05-09T07:58:02+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-09T08:04:11+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.652037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.652037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-05-09T08:04:14+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-09T08:04:15+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-09T08:04:16+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-09T08:04:16+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-09T08:04:17+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 44 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 49 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 95 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 100 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 104 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 158 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 161 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 171 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 174 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 184 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 187 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 197 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 206 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 215 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 224 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 242 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 252 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 270 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 279 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 288 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 311 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 323 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 335 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 361 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 370 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 379 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 484 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 536 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 540 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-09T08:24:27+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.640037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.640037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-09T08:24:29+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-09T08:25:18+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-09T08:25:19+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-09T08:25:20+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-09T08:31:25+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-09T08:43:56+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 36 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 47 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 85 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 93 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 102 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 156 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 159 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 169 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 172 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 182 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 185 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 195 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 204 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 213 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 222 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 236 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 238 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 240 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 250 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 268 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 277 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 286 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 309 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 321 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 333 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 359 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 368 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 377 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 482 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 534 行.
+NOTIC: [8] Undefined index: Smarty C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\shop\Runtime\Cache\7ab305fc22c8e34314a89b813d809106581b53bd.file.index.html.php 第 538 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-09T08:44:25+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "../shop/Home/View\Index\index.html"  on line 21 "&lt;a href=&quot;#&quot; name=&quot;top&quot;&gt;&lt;img class=&quot;logo&quot; src=&quot;{$smarty.Const.IMG_URL}logo.gif&quot;&gt;&lt;/a&gt;" $smarty.Const is invalid
+
+[ 2016-05-09T08:45:00+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' C:\wamp\www\shop\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.678039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.678039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
