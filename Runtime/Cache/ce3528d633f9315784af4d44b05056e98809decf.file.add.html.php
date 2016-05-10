@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2016-05-09 08:50:09
+<?php /* Smarty version Smarty-3.1.6, created on 2016-05-10 13:48:06
          compiled from "../shop/Admin/View\Goods\add.html" */ ?>
 <?php /*%%SmartyHeaderCode:14423572f024c9997e2-80110305%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'ce3528d633f9315784af4d44b05056e98809decf' => 
     array (
       0 => '../shop/Admin/View\\Goods\\add.html',
-      1 => 1462754186,
+      1 => 1462859277,
       2 => 'file',
     ),
   ),
@@ -19,7 +19,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'unifunc' => 'content_572f024cb9d26',
   'variables' => 
   array (
-    's_category_info' => 0,
+    'info' => 0,
     '_v' => 0,
     's_brand_info' => 0,
   ),
@@ -52,19 +52,19 @@ mine.css" type="text/css" rel="stylesheet">
             <table border="1" width="100%" class="table_a">
                 <tr>
                     <td>商品名称</td>
-                    <td><input type="text" name="f_goods_name" /></td>
+                    <td><input type="text" name="goods_name" /></td>
                 </tr>
                 <tr>
                     <td>商品分类</td>
                     <td>
-                        <select name="f_goods_category_id">
+                        <select name="goods_category_id">
                             <option value="0">请选择</option>
                             <?php  $_smarty_tpl->tpl_vars['_v'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['_v']->_loop = false;
- $_smarty_tpl->tpl_vars['_k'] = new Smarty_Variable;
- $_from = $_smarty_tpl->tpl_vars['s_category_info']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
+ $_smarty_tpl->tpl_vars['k'] = new Smarty_Variable;
+ $_from = $_smarty_tpl->tpl_vars['info']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
 foreach ($_from as $_smarty_tpl->tpl_vars['_v']->key => $_smarty_tpl->tpl_vars['_v']->value){
 $_smarty_tpl->tpl_vars['_v']->_loop = true;
- $_smarty_tpl->tpl_vars['_k']->value = $_smarty_tpl->tpl_vars['_v']->key;
+ $_smarty_tpl->tpl_vars['k']->value = $_smarty_tpl->tpl_vars['_v']->key;
 ?>
                             <option value="<?php echo $_smarty_tpl->tpl_vars['_v']->value['category_id'];?>
 "><?php echo $_smarty_tpl->tpl_vars['_v']->value['category_name'];?>
@@ -76,7 +76,7 @@ $_smarty_tpl->tpl_vars['_v']->_loop = true;
                 <tr>
                     <td>商品品牌</td>
                     <td>
-                        <select name="f_goods_brand_id">
+                        <select name="goods_brand_id">
                             <option value="0">请选择</option>
                             <?php  $_smarty_tpl->tpl_vars['_v'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['_v']->_loop = false;
  $_smarty_tpl->tpl_vars['_k'] = new Smarty_Variable;
@@ -94,16 +94,16 @@ $_smarty_tpl->tpl_vars['_v']->_loop = true;
                 </tr>
                 <tr>
                     <td>商品价格</td>
-                    <td><input type="text" name="f_goods_price" /></td>
+                    <td><input type="text" name="goods_price" /></td>
                 </tr>
                 <tr>
                     <td>商品图片</td>
-                    <td><input type="file" name="f_goods_image" /></td>
+                    <td><input type="file" name="goods_image" /></td>
                 </tr>
                 <tr>
                     <td>商品详细描述</td>
                     <td>
-                        <textarea name="f_goods_introduce"></textarea>
+                        <textarea name="goods_introduce"></textarea>
                     </td>
                 </tr>
                 

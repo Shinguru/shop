@@ -16,7 +16,20 @@ header("charset=utf8");
 		}
 		//添加商品
 		function add(){
-			$this -> display();
+			//利用数组方式实现数据添加
+			$goods = D('Goods');
+			if(!empty($_POST)){
+				$goods ->create();//收集post表单数据
+				$add = $goods->add();
+				if($add){
+					$this->succuss('添加商品成功',U('Goods/showlist'));
+				}else{
+					echo "false";
+				}
+			}else{
+				$this ->display();
+			}
+			
 		}
 		//修改商品
 		function update(){
